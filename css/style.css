@@ -196,7 +196,8 @@ ul {
   margin-left: 165px;
 }
 .easybank-section__item {
-  margin-right: 30px;
+  margin-right: 30px; 
+  
 }
 
 .easybank-item__title::before {
